@@ -1,0 +1,6 @@
+## In production copy bootstrap folders and files to your project.
+
+### This folder and file path is a bootstrap quickstart for testing some of the methods because it's the correct 
+   ### ... "relative" path the scripts
+   
+   
